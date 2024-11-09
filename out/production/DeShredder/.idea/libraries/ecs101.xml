@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ecs101">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/DeShredder/ecs100.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
